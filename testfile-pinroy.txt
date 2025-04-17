@@ -1,0 +1,1 @@
+press i key; type your message;press esc key; type :wq
